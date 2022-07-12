@@ -19,9 +19,12 @@ Accessible, customizable, delightful date & time pickers for [@material-ui/core]
 
 </div>
 
-## This project is not longer supported 
+### FORK
+This project was forked from the original version 3.3.10.
 
-See [#2157](https://github.com/mui-org/material-ui-pickers/issues/2157) for more details
+Changes made :
+
+The DateTimePicker now can show and edit also seconds by adding the 'seconds' value to the views property
 
 ### Installation
 
