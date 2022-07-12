@@ -15,7 +15,7 @@
   "scripts": {
     "start": "yarn dev",
     "dev": "yarn workspace docs dev",
-    "release": "yarn workspace @material-ui/pickers release && git push && git push --tags",
+    "release": "yarn workspace @ica/mui-pickers release && git push && git push --tags",
     "e2e:open": "cypress open",
     "e2e:run": "cypress run",
     "docgen": "node docs/scripts/docgen.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mui-org/material-ui-pickers.git"
+    "url": "git+https://github.com/GeenCo86/material-ui-pickers.git"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^1.6.0",

@@ -1,14 +1,15 @@
 {
-  "name": "@material-ui/pickers",
-  "version": "3.3.10",
+  "name": "@ica/mui-pickers",
+  "version": "3.4.0",
   "private": true,
-  "description": "React components, that implements material design pickers for material-ui v4",
+  "description": "React components, that implements material design pickers for material-ui v4. Extended DateTime version with seconds.",
   "main": "./src/index.ts",
   "module": "./src/index.ts",
   "keywords": [
     "material-ui",
     "pickers",
     "@material-ui/pickers",
+    "@ica/mui-pickers",
     "datepicker",
     "timepicker",
     "date-picker",
@@ -48,7 +49,7 @@
   },
   "size-limit": [
     {
-      "path": "build/dist/@material-ui/pickers.esm.js",
+      "path": "build/dist/@ica/mui-pickers.esm.js",
       "limit": "30 KB"
     }
   ],

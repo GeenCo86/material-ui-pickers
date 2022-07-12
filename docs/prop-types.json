@@ -2662,7 +2662,7 @@
       },
       "required": false,
       "type": {
-        "name": "(\"date\" | \"year\" | \"month\" | \"hours\" | \"minutes\")[]"
+        "name": "(\"date\" | \"year\" | \"month\" | \"hours\" | \"minutes\" | \"seconds\")[]"
       }
     },
     "openTo": {
@@ -2675,7 +2675,7 @@
       },
       "required": false,
       "type": {
-        "name": "\"date\" | \"year\" | \"month\" | \"hours\" | \"minutes\""
+        "name": "\"date\" | \"year\" | \"month\" | \"hours\" | \"minutes\" | \"seconds\""
       }
     },
     "hideTabs": {
@@ -3432,7 +3432,7 @@
       },
       "required": false,
       "type": {
-        "name": "(\"date\" | \"year\" | \"month\" | \"hours\" | \"minutes\")[]"
+        "name": "(\"date\" | \"year\" | \"month\" | \"hours\" | \"minutes\" | \"seconds\")[]"
       }
     },
     "openTo": {
@@ -3445,7 +3445,7 @@
       },
       "required": false,
       "type": {
-        "name": "\"date\" | \"year\" | \"month\" | \"hours\" | \"minutes\""
+        "name": "\"date\" | \"year\" | \"month\" | \"hours\" | \"minutes\" | \"seconds\""
       }
     },
     "hideTabs": {
