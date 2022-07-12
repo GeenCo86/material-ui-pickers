@@ -29,10 +29,10 @@ Note that this package requires `@material-ui/core` **v4**. It will not work wit
 
 ```sh
 // via npm
-npm i @material-ui/pickers
+npm i @ica-traffic/mui-pickers
 
 // via yarn
-yarn add @material-ui/pickers
+yarn add @ica-traffic/mui-pickers
 ```
 
 ### Getting started
