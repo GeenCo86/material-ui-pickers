@@ -54,7 +54,7 @@ jobs:
           command: yarn prettier --check './**/*.{ts,tsx,js,jsx,json,md,mdx,html,css}'
       - run:
           name: Build and analyze bundlesize
-          command: yarn workspace @ica/mui-pickers build:analyze
+          command: yarn workspace @ica-traffic/mui-pickers build:analyze
 
       - persist_to_workspace:
           root: .

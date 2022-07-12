@@ -59,7 +59,7 @@ module.exports = withBundleAnalyzer(
             },
             target: process.env.IS_NOW ? 'serverless' : 'server',
             pageExtensions: ['ts', 'tsx', 'md', 'mdx'],
-            transpileModules: ['@ica/mui-pickers'],
+            transpileModules: ['@ica-traffic/mui-pickers'],
             analyzeServer: ['server', 'both'].includes(process.env.BUNDLE_ANALYZE),
             analyzeBrowser: ['browser', 'both'].includes(process.env.BUNDLE_ANALYZE),
             bundleAnalyzerConfig: {
