@@ -1,6 +1,6 @@
 {
   "name": "@ica-traffic/mui-pickers",
-  "version": "3.4.8",
+  "version": "3.4.9",
   "private": false,
   "description": "React components, that implements material design pickers for material-ui v4. Extended DateTime version with seconds.",
   "main": "./src/index.ts",
@@ -26,7 +26,7 @@
   "homepage": "https://material-ui-pickers.dev/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mui-org/material-ui-pickers"
+    "url": "https://github.com/GeenCo86/material-ui-pickers"
   },
   "author": {
     "name": "Dmitriy Kovalenko",
